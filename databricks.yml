@@ -1,3 +1,5 @@
+bundle:
+  name: dab_dev_bundle
 targets:
   dev:
     workspace:
